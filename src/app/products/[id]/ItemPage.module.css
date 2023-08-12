@@ -1,0 +1,14 @@
+.title {
+  text-align: center;
+}
+.img {
+  width: 30vw;
+}
+.content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+}
+.deleteBtn {
+  margin-left: 10px;
+}
